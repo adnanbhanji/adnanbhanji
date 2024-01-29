@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>DevOps principles and flutter app development<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack / AI-ML projects <br><br>🌱 **I’m currently learning:**  <br>Flutter and Dart.<br><br>💬 **Ask me about:**  <br>Python, JavaScript, React, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I also create tech content on Instagram. (Link below)
+🔭 **I’m currently working on:**  <br>Chatbots and Recommendation Systems<br><br>👯 **I’m looking to collaborate on:**  <br>AI-ML / Fullstack projects <br><br>🌱 **I’m currently learning:**  <br>TensorFlow<br><br>💬 **Ask me about:**  <br>Python, JavaScript, React, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I also create tech content on Instagram. (Link below)
 
 
 ## 🌐 Socials:
