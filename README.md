@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Chatbots and Recommendation Systems<br><br>👯 **I’m looking to collaborate on:**  <br>AI-ML / Fullstack projects <br><br>🌱 **I’m currently exploring:**  <br>Libraries such as TensorFlow & scikit-learn<br><br>💬 **Ask me about:**  <br>Python, JavaScript, React, and any general software development questions.<br><br>⚡ 
+🔭 **I’m currently working on:**  <br>Chatbots and Recommendation Systems<br><br>👯 **I’m looking to collaborate on:**  <br>AI-ML / Fullstack projects <br><br>🌱 **I’m currently exploring:**  <br>Libraries such as TensorFlow & scikit-learn<br><br>💬 **Ask me about:**  <br>Python, JavaScript, React, and any general software development questions.<br>
 
 
 ## 🌐 Socials:
