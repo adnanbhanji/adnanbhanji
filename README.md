@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Chatbots and Recommendation Systems<br><br>👯 **I’m looking to collaborate on:**  <br>AI-ML / Fullstack projects <br><br>🌱 **I’m currently exploring:**  <br>Libraries such as TensorFlow & scikit-learn<br><br>💬 **Ask me about:**  <br>Python, JavaScript, React, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I also create tech content on Instagram. (Link below)
+🔭 **I’m currently working on:**  <br>Chatbots and Recommendation Systems<br><br>👯 **I’m looking to collaborate on:**  <br>AI-ML / Fullstack projects <br><br>🌱 **I’m currently exploring:**  <br>Libraries such as TensorFlow & scikit-learn<br><br>💬 **Ask me about:**  <br>Python, JavaScript, React, and any general software development questions.<br><br>⚡ 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adnanintech) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanbhanji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adnanbhanji)
 
 # 💻 Tech Stack:
 
